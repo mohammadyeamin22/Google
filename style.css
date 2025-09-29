@@ -112,3 +112,22 @@
       /* border-bottom: 1px solid white; */
      }
      /* Sub Footer CSS  */
+     /* Footer CSS  */
+     .footer{
+      display: flex;
+      margin-top: 15px;
+     }
+     .about{
+      margin-right: 500px;
+     }
+     .about a{
+  color: white;
+  text-decoration: none;
+  margin: 15px;
+     }
+     .privacy a{
+      color: white;
+      text-decoration: none;
+      margin: 20px;
+     }
+      /* Footer CSS  */
