@@ -69,3 +69,46 @@
       background-color: #4a4f57;
     }
     /* Search Bar Css */
+     /* Search Bar Setion CSS */
+     .google{
+      text-align: center;
+      margin: 35px;
+     }
+     .google span a{
+      font-weight: bolder;
+      color: white;
+      text-decoration: none;
+      margin: 20px;
+      padding: 9px;
+      border: 1px solid black;
+      border-radius: 10px;
+      background:#303134;
+     }
+     /* Search Bar Setion CSS */
+     /* Googe Offered CSS  */
+     .offered{
+      text-align: center;
+     }
+     .offered span{
+      color: white;
+     }
+     .offered a{
+      text-decoration: none;
+      color:#99C3FF;
+     }
+     /* Googe Offered CSS  */
+     /* Sub Footer CSS  */
+     .sub_footer{
+      border-bottom: 1px solid white;
+      /* background:black; */
+     }
+     .sub_footer p{
+      font-size: large;
+      font-weight:300px;
+      color:white;
+      margin-left: 30px;
+      /* background: black;
+      height: 100px; */
+      /* border-bottom: 1px solid white; */
+     }
+     /* Sub Footer CSS  */
